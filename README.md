@@ -63,7 +63,7 @@ Data Privacy and Limitations
 All records in this project are fictional. No real patient information is included. The program is intended for educational programming practice and is not a clinical tool. The sample values must not be used to make medical decisions.
 
 Author
-Your Name
+Adey Amare
 
 Project Purpose
 This project was created as a practical exercise in Python programming, sample health data management, and Git and GitHub version control.
